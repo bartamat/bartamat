@@ -11,7 +11,7 @@
 ### QuizIt
 - This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers. Quizzes could also be shared and rated among the users.
 - Backend build on Firebase and its tools (authentication, storage, firestore, cloud functions).
-- Using Combine and closures for asynchronous data handling.
+- Combine and closures used for asynchronous data handling.
 - Frontend SwiftUI with occasional UIKit.
 - As this was my first non tutorial contact with iOS development, it turned out to be a bit more complicated than expected.
 - Looking back I would have done plenty stuff differently, but in the end learned a lot from this project.
