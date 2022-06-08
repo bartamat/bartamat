@@ -9,7 +9,7 @@
 
 ## Things I have created 🪜
 ### QuizIt
-- This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers.
+- This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers. Quizzes could be shared and rated among the users.
 - Backend build on Firebase and its tools (authentication, storage, firestore, cloud functions).
 - Using Combine and closures for asynchronous data handling.
 - Frontend SwiftUI with occasional UIKit.
