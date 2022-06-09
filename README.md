@@ -14,6 +14,13 @@
 - CoreData used to store larger amount of data. UserDefaults for saving current state. Keychain for storing user passcode.
 - Local Authentication for Face/Touch-ID.
 - Overall, since this is my latest creation I am happy with how it turned out.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/62949707/172856126-aa842c0a-aa9b-462a-8784-28e0c29d09ac.PNG" width="234" height="506">
+<img src="https://user-images.githubusercontent.com/62949707/172856117-c90d9318-4870-4795-b734-33a47bf7ed80.PNG" width="234" height="506">
+<img src="https://user-images.githubusercontent.com/62949707/172856105-7f6533d1-c12c-4aea-9f95-9b3cf7b24e52.PNG" width="234" height="506">
+<img src="https://user-images.githubusercontent.com/62949707/172856081-5c37282e-842b-452e-a087-3807911e9027.PNG" width="234" height="506">
+</p>
+
 ### QuizIt
 - This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers. Quizzes could also be shared and rated among the users.
 - Backend build on Firebase and its tools (authentication, storage, firestore, cloud functions).
