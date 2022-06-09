@@ -9,7 +9,7 @@
 
 ## Things I have created 🪜
 ### Kamasutra
-- Maybe a bit controversial theme, but do not be alarmed. With this project I was tasked to update a 5 year old app that was written in Swift 3 and used JSON as data storage. To test my skills and ease my pain I have decided to create this app from the scratch.
+- Maybe a bit controversial theme, but do not be alarmed. With this project I was tasked to update a 5 year old app that was written in Swift 3 and used JSON as data storage. To test my skills and ease my pain I have decided to recreate this app from the scratch.
 - Frontend SwiftUI
 - CoreData used to store larger amount of data. UserDefaults for saving current state. Keychain for storing user passcode.
 - Local Authentication for Face/Touch-ID.
