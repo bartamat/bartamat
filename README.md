@@ -9,8 +9,11 @@
 
 ## Things I have created 🪜
 ### Kamasutra
-- Maybe a bit controversial theme, but do not be alarmed.
--  
+- Maybe a bit controversial theme, but do not be alarmed. With this project I was tasked to update a 5 year old app that was written in Swift 3 and used JSON as data storage. To test my skills and ease my pain I have decided to create this app from the scratch.
+- Frontend SwiftUI
+- CoreData used to store larger amount of data. UserDefaults for saving current state. Keychain for storing user passcode.
+- Local Authentication for Face/Touch-ID.
+- Overall, since this is my latest creation I am happy with how it turned out.
 ### QuizIt
 - This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers. Quizzes could also be shared and rated among the users.
 - Backend build on Firebase and its tools (authentication, storage, firestore, cloud functions).
