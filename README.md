@@ -8,6 +8,9 @@
 - developer@bartamatej.com
 
 ## Things I have created 🪜
+### Kamasutra
+- Maybe a bit controversial theme, but do not be alarmed.
+-  
 ### QuizIt
 - This app was created as semestral project for a school subject. Idea was to generate quizzes for kids using Google AI/ML api. Quiz was created from pictures which have been used to generete answers. Quizzes could also be shared and rated among the users.
 - Backend build on Firebase and its tools (authentication, storage, firestore, cloud functions).
