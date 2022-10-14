@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Something about me 👨‍🎓
-- I am a junior developer for Apple platform, trying to learn everything there is. 
+- I am interested in iOS development, Game dev and Machine learning
 - Currently focusing on Swift and SwiftUI and as a result of SwiftUI youth I sometimes use tools from UIKit.
 - I have also worked with frameworks like CoreData, Keychain, Firebase and few more.
 
