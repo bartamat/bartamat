@@ -1,3 +1,4 @@
+### Last updated [06.2022]
 # Hi there 👋
 ### Something about me 👨‍🎓
 - I am interested in iOS development, Game dev and Machine learning
